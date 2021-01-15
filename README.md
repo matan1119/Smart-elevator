@@ -14,6 +14,8 @@ The elevator can be booked in advance via remote control and reach the elevator 
 
 Using the elevator can save waiting time with the patient in the elevator and thus save lives.
 
+open the main.c to view in code.
+
 
 ![20130813_163244](https://user-images.githubusercontent.com/77153363/104738858-b921d580-574e-11eb-8b5a-a3dca4fac798.jpg)
 
@@ -37,3 +39,6 @@ Using the elevator can save waiting time with the patient in the elevator and th
 Link to video:
 
 https://www.youtube.com/watch?v=S-5fraIp0wc&feature=youtu.be
+
+
+Enjoy.
